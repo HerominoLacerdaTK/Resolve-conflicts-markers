@@ -1,9 +1,11 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║             🔥 Android Kernel Conflict Resolver 🔥          ║
-║                     resolve-conflitos-v30H                 ║
+║                     resolve-conflitos-v30H anda v10                ║
 ╚══════════════════════════════════════════════════════════════╝
 
 USO
+chmod +x resolve-conflicts-v10.sh
+./resolve-conflitos-v10.sh --prefer=branch
 
 chmod +x resolve-conflitos-v30H.sh
 
