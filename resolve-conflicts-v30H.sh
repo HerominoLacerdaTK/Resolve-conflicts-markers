@@ -5,7 +5,7 @@
 
 PREFER="branch"
 INTERACTIVE=false
-LOG_FILE="resolve-conflitos-v30H.log"
+LOG_FILE="resolve-conflicts-v30H.log"
 BACKUP_DIR=".brutal-backups"
 
 usage() {
