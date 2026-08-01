@@ -5,15 +5,15 @@
 
 USO
 chmod +x resolve-conflicts-v10.sh
-./resolve-conflitos-v10.sh --prefer=branch
+./resolve-conflicts-v10.sh --prefer=branch
 
 chmod +x resolve-conflitos-v30H.sh
 
 ▶ Resolver automaticamente preferindo o HEAD (Upstream)
-    ./resolve-conflitos-v30H.sh --prefer=head
+    ./resolve--conflicts-v30H.sh --prefer=head
 
 ▶ Resolver automaticamente preferindo a BRANCH (Stock)
-    ./resolve-conflitos-v30H.sh --prefer=branch
+    ./resolve-conflicts-v30H.sh --prefer=branch
 
 ▶ Resolver conflito por conflito (Modo Interativo)
     ./resolve-conflitos-v30H.sh --interactive
