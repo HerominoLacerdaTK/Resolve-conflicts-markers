@@ -7,7 +7,7 @@ USO
 chmod +x resolve-conflicts-v10.sh
 ./resolve-conflicts-v10.sh --prefer=branch
 
-chmod +x resolve-conflitos-v30H.sh
+chmod +x resolve-conflicts-v30H.sh
 
 ▶ Resolver automaticamente preferindo o HEAD (Upstream)
     ./resolve--conflicts-v30H.sh --prefer=head
